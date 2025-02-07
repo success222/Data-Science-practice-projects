@@ -2,4 +2,4 @@
 
 ## editing the file
 
-It's a markdown file in this repository.
+Contains projects done during the course of my IBM Data Science Professional Certification course
